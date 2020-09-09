@@ -30,8 +30,5 @@
   },
   "jupyterlab": {
     "extension": "lib/labplugin"
-  },
-  "publishConfig": {
-    "registry": "https://wombat-dressing-room.appspot.com"
   }
 }
