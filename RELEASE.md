@@ -1,5 +1,10 @@
 # Version 0.26.0
 
+## Custom patches
+
+*   Cherry-picked [this commit](https://github.com/tensorflow/model-analysis/commit/cc7d75c1bf588123795511572e1b4445d9a52191) to make 0.26.0 work with the Kubeflow Notebook       environment.
+*   Updated Jupyterlab related dependencies to make 0.26.0 compatible with Jupyterlab V3.
+
 ## Major Features and Improvements
 
 *   Added support for aggregating feature attributions using special metrics
