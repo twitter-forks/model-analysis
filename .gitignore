@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__
+build
+dist
+demo_notebooks/twttr*
+*.egg-info
+package-lock.json
+node_modules
+*tar.gz
